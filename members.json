@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ye_zhien",
+    "name": "叶知恩",
+    "generation": 1,
+    "colours": [
+        {
+            "name": "草莓红",
+            "hex": "#FF171D"
+        }
+    ]
+  },
+
+  {
+    "id": "qiu_dier",
+    "name": "邱笛尔",
+    "generation": 3,
+    "colours": [
+        {
+            "name": "沃斯你笛椰椰",
+            "hex": "#00FF00"
+        }
+    ]
+  },
+
+  {
+    "id": "wang_anni",
+    "name": "王安妮",
+    "generation": 3,
+    "colours": [
+        {
+            "name": "红豆红",
+            "hex": "#FF0000"
+        },
+        {
+            "name": "抹茶绿",
+            "hex": "#40F000"
+        }
+    ]
+  }
+]
