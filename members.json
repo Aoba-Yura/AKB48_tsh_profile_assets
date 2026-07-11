@@ -1,339 +1,343 @@
-[
-  {
-    "id": "ye_zhien",
-    "name": "叶知恩",
-    "generation": 1,
-    "colours": [
-      {
-        "name": "草莓红",
-        "hex": "#FF171D"
-      }
-    ]
-  },
-  {
-    "id": "zhou_nianqi",
-    "name": "周念琪",
-    "generation": 1,
-    "colours": [
-      {
-        "name": "雪青色",
-        "hex": "#A59ACA"
-      },
-      {
-        "name": "紫色",
-        "hex": "#800080"
-      }
-    ]
-  },
-  {
-    "id": "cheng_anzi",
-    "name": "程安子",
-    "generation": 2,
-    "colours": [
-      {
-        "name": "黄色",
-        "hex": "#FFFF00"
-      },
-      {
-        "name": "白色",
-        "hex": "#FFFFFF"
-      }
-    ]
-  },
-  {
-    "id": "gui_chuchu",
-    "name": "桂楚楚",
-    "generation": 2,
-    "colours": [
-      {
-        "name": "粉色",
-        "hex": "#FFE3EF"
-      },
-      {
-        "name": "蓝色",
-        "hex": "#B3D9FF"
-      }
-    ]
-  },
-  {
-    "id": "qiu_dier",
-    "name": "邱笛尔",
-    "generation": 3,
-    "colours": [
-      {
-        "name": "沃斯你笛椰椰",
-        "hex": "#00FF00"
-      }
-    ]
-  },
-  {
-    "id": "wang_anni",
-    "name": "王安妮",
-    "generation": 3,
-    "colours": [
-      {
-        "name": "红豆红",
-        "hex": "#FF0000"
-      },
-      {
-        "name": "抹茶绿",
-        "hex": "#40F000"
-      }
-    ]
-  },
-  {
-    "id": "zhang_jiazhe",
-    "name": "张嘉哲",
-    "generation": 3,
-    "colours": [
-      {
-        "name": "浅蓝色",
-        "hex": "#8BD3E6"
-      }
-    ]
-  },
-  {
-    "id": "chen_jiayi",
-    "name": "陈嘉意",
-    "generation": 4,
-    "colours": [
-      {
-        "name": "米黄色",
-        "hex": "#FFF09B"
-      },
-      {
-        "name": "浅粉色",
-        "hex": "#FFC8E6"
-      }
-    ]
-  },
-  {
-    "id": "wang_xiaoyang",
-    "name": "王晓阳",
-    "generation": 4,
-    "colours": [
-      {
-        "name": "绿色",
-        "hex": "#008000"
-      },
-      {
-        "name": "白色",
-        "hex": "#FFFFFF"
-      }
-    ]
-  },
-  {
-    "id": "wu_fan",
-    "name": "吴凡",
-    "generation": 4,
-    "colours": [
-      {
-        "name": "橙色",
-        "hex": "#D2905A"
-      },
-      {
-        "name": "黄色",
-        "hex": "#E9DC8C"
-      }
-    ]
-  },
-  {
-    "id": "zhang_yilin",
-    "name": "张艺琳",
-    "generation": 4,
-    "colours": [
-      {
-        "name": "粉色",
-        "hex": "#FFC0CB"
-      },
-      {
-        "name": "红色",
-        "hex": "#FF0000"
-      }
-    ]
-  },
-  {
-    "id": "zhang_shiyu",
-    "name": "张诗瑜",
-    "generation": 5,
-    "colours": [
-      {
-        "name": "蓝色",
-        "hex": "#0000FF"
-      },
-      {
-        "name": "紫色",
-        "hex": "#800080"
-      }
-    ]
-  },
-  {
-    "id": "zheng_yushan",
-    "name": "郑雨姗",
-    "generation": 5,
-    "colours": [
-      {
-        "name": "黄色",
-        "hex": "#FFFF00"
-      }
-    ]
-  },
-  {
-    "id": "huang_zhenxuan",
-    "name": "黄桢璇",
-    "generation": 6,
-    "colours": [
-      {
-        "name": "水蓝色",
-        "hex": "#9ED6E1"
-      },
-      {
-        "name": "白色",
-        "hex": "#FFFFFF"
-      }
-    ]
-  },
-  {
-    "id": "wei_xiaoya",
-    "name": "韦筱雅",
-    "generation": 6,
-    "colours": [
-      {
-        "name": "初日黄",
-        "hex": "#F8F830"
-      },
-      {
-        "name": "夕阳橙",
-        "hex": "#F89430"
-      }
-    ]
-  },
-  {
-    "id": "cheng_lexin",
-    "name": "程乐歆",
-    "generation": 7,
-    "colours": [
-      {
-        "name": "水蓝色",
-        "hex": "#87CEEB"
-      }
-    ]
-  },
-  {
-    "id": "gu_xinqin",
-    "name": "顾欣沁",
-    "generation": 7,
-    "colours": [
-      {
-        "name": "珊瑚红",
-        "hex": "#DB2F23"
-      },
-      {
-        "name": "扶光色",
-        "hex": "#F7BD98"
-      }
-    ]
-  },
-  {
-    "id": "li_yunxi",
-    "name": "李芸熙",
-    "generation": 7,
-    "colours": [
-      {
-        "name": "紫色",
-        "hex": "#800080"
-      },
-      {
-        "name": "黄色",
-        "hex": "#FFFF00"
-      }
-    ]
-  },
-  {
-    "id": "yu_yunshi",
-    "name": "余允诗",
-    "generation": 7,
-    "colours": []
-  },
-  {
-    "id": "weng_manling",
-    "name": "翁曼绫",
-    "generation": "TPE48 4",
-    "colours": []
-  },
-  {
-    "id": "chang_qinfeng",
-    "name": "常沁枫",
-    "generation": 8,
-    "colours": []
-  },
-  {
-    "id": "gan_xingwan",
-    "name": "甘星晚",
-    "generation": 8,
-    "colours": [
-      {
-        "name": "粉色",
-        "hex": "#FF48B0"
-      },
-      {
-        "name": "紫色",
-        "hex": "#9B26B5"
-      }
-    ]
-  },
-  {
-    "id": "li_wenhuan",
-    "name": "李文欢",
-    "generation": 8,
-    "colours": []
-  },
-  {
-    "id": "long_qingrui",
-    "name": "龙青蕊",
-    "generation": 8,
-    "colours": [
-      {
-        "name": "青提雾语",
-        "hex": "#DCF7D8"
-      },
-      {
-        "name": "晚樱信笺",
-        "hex": "#F1BFBC"
-      }
-    ]
-  },
-  {
-    "id": "shen_qing",
-    "name": "沈晴",
-    "generation": 8,
-    "colours": []
-  },
-  {
-    "id": "shu_siyue",
-    "name": "舒思月",
-    "generation": 8,
-    "colours": []
-  },
-  {
-    "id": "wu_sihan",
-    "name": "吴斯涵",
-    "generation": 8,
-    "colours": [
-      {
-        "name": "米色",
-        "hex": "#F5F5DC"
-      },
-      {
-        "name": "芋泥紫",
-        "hex": "#B8A1C9"
-      }
-    ]
-  },
-  {
-    "id": "xing_enhe",
-    "name": "邢恩赫",
-    "generation": 8,
-    "colours": []
-  }
-]
+{
+  "version": 2,
+  "updated_at": "2026-07-08",
+  "members": [
+    {
+      "id": "ye_zhien",
+      "name": "叶知恩",
+      "generation": 1,
+      "colours": [
+        {
+          "name": "草莓红",
+          "hex": "#FF171D"
+        }
+      ]
+    },
+    {
+      "id": "zhou_nianqi",
+      "name": "周念琪",
+      "generation": 1,
+      "colours": [
+        {
+          "name": "雪青色",
+          "hex": "#A59ACA"
+        },
+        {
+          "name": "紫色",
+          "hex": "#800080"
+        }
+      ]
+    },
+    {
+      "id": "cheng_anzi",
+      "name": "程安子",
+      "generation": 2,
+      "colours": [
+        {
+          "name": "黄色",
+          "hex": "#FFFF00"
+        },
+        {
+          "name": "白色",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "id": "gui_chuchu",
+      "name": "桂楚楚",
+      "generation": 2,
+      "colours": [
+        {
+          "name": "粉色",
+          "hex": "#FFE3EF"
+        },
+        {
+          "name": "蓝色",
+          "hex": "#B3D9FF"
+        }
+      ]
+    },
+    {
+      "id": "qiu_dier",
+      "name": "邱笛尔",
+      "generation": 3,
+      "colours": [
+        {
+          "name": "沃斯你笛椰椰",
+          "hex": "#00FF00"
+        }
+      ]
+    },
+    {
+      "id": "wang_anni",
+      "name": "王安妮",
+      "generation": 3,
+      "colours": [
+        {
+          "name": "红豆红",
+          "hex": "#FF0000"
+        },
+        {
+          "name": "抹茶绿",
+          "hex": "#40F000"
+        }
+      ]
+    },
+    {
+      "id": "zhang_jiazhe",
+      "name": "张嘉哲",
+      "generation": 3,
+      "colours": [
+        {
+          "name": "浅蓝色",
+          "hex": "#8BD3E6"
+        }
+      ]
+    },
+    {
+      "id": "chen_jiayi",
+      "name": "陈嘉意",
+      "generation": 4,
+      "colours": [
+        {
+          "name": "米黄色",
+          "hex": "#FFF09B"
+        },
+        {
+          "name": "浅粉色",
+          "hex": "#FFC8E6"
+        }
+      ]
+    },
+    {
+      "id": "wang_xiaoyang",
+      "name": "王晓阳",
+      "generation": 4,
+      "colours": [
+        {
+          "name": "绿色",
+          "hex": "#008000"
+        },
+        {
+          "name": "白色",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "id": "wu_fan",
+      "name": "吴凡",
+      "generation": 4,
+      "colours": [
+        {
+          "name": "橙色",
+          "hex": "#D2905A"
+        },
+        {
+          "name": "黄色",
+          "hex": "#E9DC8C"
+        }
+      ]
+    },
+    {
+      "id": "zhang_yilin",
+      "name": "张艺琳",
+      "generation": 4,
+      "colours": [
+        {
+          "name": "粉色",
+          "hex": "#FFC0CB"
+        },
+        {
+          "name": "红色",
+          "hex": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": "zhang_shiyu",
+      "name": "张诗瑜",
+      "generation": 5,
+      "colours": [
+        {
+          "name": "蓝色",
+          "hex": "#0000FF"
+        },
+        {
+          "name": "紫色",
+          "hex": "#800080"
+        }
+      ]
+    },
+    {
+      "id": "zheng_yushan",
+      "name": "郑雨姗",
+      "generation": 5,
+      "colours": [
+        {
+          "name": "黄色",
+          "hex": "#FFFF00"
+        }
+      ]
+    },
+    {
+      "id": "huang_zhenxuan",
+      "name": "黄桢璇",
+      "generation": 6,
+      "colours": [
+        {
+          "name": "水蓝色",
+          "hex": "#9ED6E1"
+        },
+        {
+          "name": "白色",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "id": "wei_xiaoya",
+      "name": "韦筱雅",
+      "generation": 6,
+      "colours": [
+        {
+          "name": "初日黄",
+          "hex": "#F8F830"
+        },
+        {
+          "name": "夕阳橙",
+          "hex": "#F89430"
+        }
+      ]
+    },
+    {
+      "id": "cheng_lexin",
+      "name": "程乐歆",
+      "generation": 7,
+      "colours": [
+        {
+          "name": "水蓝色",
+          "hex": "#87CEEB"
+        }
+      ]
+    },
+    {
+      "id": "gu_xinqin",
+      "name": "顾欣沁",
+      "generation": 7,
+      "colours": [
+        {
+          "name": "珊瑚红",
+          "hex": "#DB2F23"
+        },
+        {
+          "name": "扶光色",
+          "hex": "#F7BD98"
+        }
+      ]
+    },
+    {
+      "id": "li_yunxi",
+      "name": "李芸熙",
+      "generation": 7,
+      "colours": [
+        {
+          "name": "紫色",
+          "hex": "#800080"
+        },
+        {
+          "name": "黄色",
+          "hex": "#FFFF00"
+        }
+      ]
+    },
+    {
+      "id": "yu_yunshi",
+      "name": "余允诗",
+      "generation": 7,
+      "colours": []
+    },
+    {
+      "id": "weng_manling",
+      "name": "翁曼绫",
+      "generation": "TPE48 4",
+      "colours": []
+    },
+    {
+      "id": "chang_qinfeng",
+      "name": "常沁枫",
+      "generation": 8,
+      "colours": []
+    },
+    {
+      "id": "gan_xingwan",
+      "name": "甘星晚",
+      "generation": 8,
+      "colours": [
+        {
+          "name": "粉色",
+          "hex": "#FF48B0"
+        },
+        {
+          "name": "紫色",
+          "hex": "#9B26B5"
+        }
+      ]
+    },
+    {
+      "id": "li_wenhuan",
+      "name": "李文欢",
+      "generation": 8,
+      "colours": []
+    },
+    {
+      "id": "long_qingrui",
+      "name": "龙青蕊",
+      "generation": 8,
+      "colours": [
+        {
+          "name": "青提雾语",
+          "hex": "#DCF7D8"
+        },
+        {
+          "name": "晚樱信笺",
+          "hex": "#F1BFBC"
+        }
+      ]
+    },
+    {
+      "id": "shen_qing",
+      "name": "沈晴",
+      "generation": 8,
+      "colours": []
+    },
+    {
+      "id": "shu_siyue",
+      "name": "舒思月",
+      "generation": 8,
+      "colours": []
+    },
+    {
+      "id": "wu_sihan",
+      "name": "吴斯涵",
+      "generation": 8,
+      "colours": [
+        {
+          "name": "米色",
+          "hex": "#F5F5DC"
+        },
+        {
+          "name": "芋泥紫",
+          "hex": "#B8A1C9"
+        }
+      ]
+    },
+    {
+      "id": "xing_enhe",
+      "name": "邢恩赫",
+      "generation": 8,
+      "colours": []
+    }
+  ]
+}
