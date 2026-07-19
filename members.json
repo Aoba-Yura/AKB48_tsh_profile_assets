@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updated_at": "2026-07-12",
+  "version": 4,
+  "updated_at": "2026-07-19",
   "members": [
     {
       "id": "ye_zhien",
@@ -102,7 +102,7 @@
       "colours": [
         {
           "name": "米黄色",
-          "hex": "#E0E010"
+          "hex": "#FFAB10"
         },
         {
           "name": "浅粉色",
