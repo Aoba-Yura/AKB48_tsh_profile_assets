@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updated_at": "2026-07-19",
   "members": [
     {
@@ -50,7 +50,7 @@
       "colours": [
         {
           "name": "粉色",
-          "hex": "#F22FA8"
+          "hex": "#F24FA8"
         },
         {
           "name": "蓝色",
@@ -106,7 +106,7 @@
         },
         {
           "name": "浅粉色",
-          "hex": "#FF3DBC"
+          "hex": "#FF6AB4"
         }
       ]
     },
